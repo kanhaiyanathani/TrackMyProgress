@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Hello World!",
+    "name": "Progress Tracker",
     "description": "This extension shows a Hello World message!",
     "version": "1.0",
     "browser_action": {
